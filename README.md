@@ -1,3 +1,3 @@
-## Pressies
+## Ressies-2015
 
-written by:
+A resolution tracker app built with Ruby on Rails.
